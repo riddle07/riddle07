@@ -6,7 +6,7 @@
   
 [![Badge](https://cp-logo.vercel.app/codechef/riddle_7?logo=true)](https://www.codechef.com/users/riddle_7)
 [![Badge](https://cp-logo.vercel.app/codeforces/riddle_7?logo=true)](https://codeforces.com/profile/riddle_7)
- [![Badge](https://cp-logo.vercel.app/leetcode/riddle_7?logo=true)](https://leetcode.com.com/riddle_7)
+ [![Badge](https://cp-logo.vercel.app/leetcode/riddle_7?logo=true)](https://leetcode.com/riddle_7/)
   
 </div>
 <br />
