@@ -5,7 +5,7 @@
 
 
 
-<p align="center"> 🌱 I am finaly year student at MNNIT Allahabad.<br> 🤔 I have an extensive liking for algorithms and data structures with some competitive programming experience.<br>🤝I am open to collaborate on web development and java-based projects.</p>
+<p align="center"> 🌱 I am final year student at MNNIT Allahabad.<br> 🤔 I have an extensive liking for algorithms and data structures with some competitive programming experience.<br>🤝I am open to collaborate on web development and java-based projects.</p>
 
 
 ---- 
