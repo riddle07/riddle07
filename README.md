@@ -1,7 +1,6 @@
-<h1 align="center">Hi , I'm Maaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Competitive+Programmer;Web+Developer;Graphic%20Designer;Content+Writer&center=true&width=500&height=50"></a>
-</p>
+<h1 align="center"><img src="https://chrisdoke4blog.files.wordpress.com/2015/05/attack-on-titan-pic.jpeg" width="1000"></h1>
+<h1 align="center">Hi , I'm Maaz </h1>
+
 <div align = "center">
   
 [![Badge](https://cp-logo.vercel.app/codechef/riddle_7?logo=true)](https://www.codechef.com/users/riddle_7)
@@ -94,6 +93,7 @@
 </p>
 
 ----
+  
 
 <h3 align="center">Connect with me</h3>
 
