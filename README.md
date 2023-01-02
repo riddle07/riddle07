@@ -97,7 +97,7 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://linkedin.com/in/maa-baa715206" target="_blank">
+    <a  href="https://www.linkedin.com/in/maaz-baa715206/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="maa-baa715206"/>
     </a>
     <a href="mailto:maazshuaib18l@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="maaz" /></a></p>
